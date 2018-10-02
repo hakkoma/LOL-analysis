@@ -5,3 +5,6 @@ This will be guided to check further analysis on characteristics of each league 
   
 The conclusion of this study will be examining the winner of the World series whether the each league's data presents the  
 winner of the world cup by comparing the data
+
+Ref.
+https://www.kaggle.com/chuckephron/leagueoflegends
