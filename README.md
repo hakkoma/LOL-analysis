@@ -8,3 +8,6 @@ winner of the world cup by comparing the data
 
 Ref.
 https://www.kaggle.com/chuckephron/leagueoflegends
+
+#### 16.10.18 Update  
+Since LOL-worlds has been started, analysis will be paused and gonna continue after the competition finishes.
